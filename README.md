@@ -33,5 +33,5 @@ default song to "The Sign by Ace of Base":
 `node liri.js do-what-it-says`
 
 ## BONUS ##
-#### Simple Node Logger (used to log commands to a log.txt file)
-`npm install simple-node-logger`
+##### In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
+`npm install log`
