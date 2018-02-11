@@ -27,9 +27,9 @@ Objective is to retrieve a song of your choice and default song to "The Sign by 
 `Retrieves JSON object:
 `node liri.js movie-this "Mr. Nobody"
 
-### Use the fs.readFile command to read a random.txt file and does what it says:
+## Use the fs.readFile command to read a random.txt file and does what it says:
 `node liri.js do-what-it-says`
 
-### BONUS ###
-# Simple Node Logger (used to log commands to a log.txt file)
+## BONUS ##
+#### Simple Node Logger (used to log commands to a log.txt file)
 `npm install simple-node-logger`
