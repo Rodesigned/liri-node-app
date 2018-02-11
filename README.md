@@ -28,7 +28,7 @@ default song to "The Sign by Ace of Base":
 `Retrieves JSON object:
 `node liri.js movie-this "Mr. Nobody"
 
-# Use the fs.readFile command
+#### Use the fs.readFile command
  to read a random.txt file and does what it says:
 `node liri.js do-what-it-says`
 
