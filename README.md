@@ -20,14 +20,16 @@ Objective is to retrieve 20 tweets from your twitter page:
 `npm install fs`
 
 ### Spotify
-Objective is to retrieve a song of your choice and default song to "The Sign by Ace of Base":
+Objective is to retrieve a song of your choice and 
+default song to "The Sign by Ace of Base":
 `npm install spotify`
 
 ### OMDb Movie 
 `Retrieves JSON object:
 `node liri.js movie-this "Mr. Nobody"
 
-## Use the fs.readFile command to read a random.txt file and does what it says:
+# Use the fs.readFile command
+ to read a random.txt file and does what it says:
 `node liri.js do-what-it-says`
 
 ## BONUS ##
