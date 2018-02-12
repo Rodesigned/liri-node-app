@@ -35,7 +35,7 @@ function doThis(command, arg) {
 
         default:
             console.log(
-                "\nType any one of these command lines after 'node liri.js': " + "\n" + "1. my-tweets 'any twitter name' " + "\n" + "2. spotify-this-song 'any song name' " + "\n" + "3. movie-this 'any movie title' " + "\n" + "4. do-what-it-says" + "\n" + "Be sure to include all song names and movie titles in quotations if it is more than one word. ");
+                "Type any one of these command lines after 'node liri.js': " + "\n" + "1. my-tweets 'any twitter name' " + "\n" + "2. spotify-this-song 'any song name' " + "\n" + "3. movie-this 'any movie title' " + "\n" + "4. do-what-it-says" + "\n" + "Be sure to include all song names and movie titles in quotations if it is more than one word. ");
     }
 }
 
